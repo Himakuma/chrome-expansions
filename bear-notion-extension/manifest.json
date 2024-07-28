@@ -3,9 +3,7 @@
   "description": "Notion Extensions",
   "version": "0.1.0",
   "manifest_version": 3,
-  "permissions": [
-    "scripting"
-  ],
+  "permissions": [],
   "action": {},
   "content_scripts": [
     {
